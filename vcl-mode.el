@@ -65,7 +65,9 @@
      "if"
      "remove"
      "return"
+     "error"
      "set"
+     "unset"
      )
     'font-lock-keyword-face)
 
@@ -75,6 +77,7 @@
      "purge_url"
      "regsub"
      "regsuball"
+     "hash_data"
      )
     'font-lock-builtin-face)
 
